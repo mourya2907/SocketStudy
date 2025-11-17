@@ -79,7 +79,14 @@ print(s.recv(1024).decode())
 s.send("acknowledgement recived from the server".encode())
 ~~~
 ## OUTPUT:
-<img width="1920" height="1200" alt="476362441-eed2e85f-aaaf-42e0-a507-c6c0c66e644c" src="https://github.com/user-attachments/assets/8b073e54-813c-48cf-8cb0-c4a1d7aee6e6" />
+
+### server :
+
+<img width="1919" height="338" alt="486713706-cc9a5502-23b5-45fc-8f76-8e6eeea16cba" src="https://github.com/user-attachments/assets/5bb66139-b93c-4277-935c-c59dc2ce391e" />
+
+### client :
+
+<img width="1917" height="356" alt="486714663-4e0e8847-cacc-4630-94f5-c6eaadc06e52" src="https://github.com/user-attachments/assets/e6ff95a2-1ba0-4dde-a9e5-2b28cb535c20" />
 
 
 ## Result:
